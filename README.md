@@ -15,7 +15,7 @@ Both hero characters are original 3D assets generated, rigged, and animated end-
 
 ## Live production demo
 
-**Production URL:** _(added after deployment — see below)_
+**Production URL:** https://grimhollow-molten-depths.vercel.app
 
 **GitHub repository:** https://github.com/carlomigueldy/grimhollow-molten-depths
 
